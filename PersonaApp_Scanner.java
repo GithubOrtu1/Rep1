@@ -2,7 +2,7 @@ package PracticaED;
 
 /**
  * Clase PersonaApp_Scanner ejecutable 
- * @version 0.0 06/02/2023 
+ * @version 0.1 06/02/2023 
  * @author eslooj
  */
 import java.util.Locale;
