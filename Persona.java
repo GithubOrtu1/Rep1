@@ -3,8 +3,8 @@ package PracticaED;
 /** 
  * Clase Persona que se instancia con los campos y los valores de los mismos informados por consola
  * Muestra todos los datos de la persona asi commo el calculo del IMC
- * Se muestra si la persona en mayor de edad o no
- * @version 0.0 04/02/2023 
+ * Se muestra si la persona en mayor de edad o no.
+ * @version 0.0 0/02/2023 
  *
  * @author eslooj
  *
